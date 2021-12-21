@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vkcom/vk-php-sdk": "^5.101",
+        "phpoffice/phpword": "^0.18.1",
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
